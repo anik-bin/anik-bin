@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aniket
-- 👀 I’m interested in Blockchain Development and DevOps
+- 👀 I’m interested in Blockchain Development and Full Stack Web Development
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on Blockchain Projects
-- 📫 How to reach me : aniketbindhani44@gmail.com
+- 💞️ I’m looking to collaborate on MERN Stack Projects
+- 📫 How to reach me : aniketbindhani@gmail.com
 
 <!---
 anik-bin/anik-bin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
