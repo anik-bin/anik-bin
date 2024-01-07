@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aniket
-- 🌱 I’m currently learning NextJS and Blockchain
+- 🌱 currently learning NextJS
 - 📫 How to reach me: me@aniketbindhani.com
 
 <!---
