@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aniket
-- 🌱 currently learning NextJS
-- 📫 How to reach me: me@aniketbindhani.com
+- 👨‍💻 **Backend Engineer** passionate about scalable systems, specializing in **Java (Spring Boot)**, **Node.js**, and **Cloud-Native** technologies (Docker, AWS).
+- 🚀 Currently building a **Voice-Enabled GenAI Code Editor**.
+- 🎯 Actively looking for **Backend Engineering** roles where I can solve complex architectural challenges.
 
 <!---
 anik-bin/anik-bin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
