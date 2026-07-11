@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aniket
-- 👨‍💻 **Backend Engineer** passionate about scalable systems, specializing in **Java (Spring Boot)**, **Node.js**, and **Cloud-Native** technologies (Docker, AWS).
-- 🚀 Currently building a **Voice-Enabled GenAI Code Editor**.
+- 👨‍💻 **Backend Engineer** passionate about scalable systems, specializing in **Python (Django)**, **Node.js**, and **Cloud-Native** technologies (Docker, AWS).
+- 🚀 Currently building a **Code Q&A Platform**.
 - 🎯 Actively looking for **Backend Engineering** roles where I can solve complex architectural challenges.
 
 <!---
